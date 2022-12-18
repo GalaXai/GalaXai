@@ -8,7 +8,7 @@ I primarily use 🐍 Python, but I am also exploring other technologies and tool
 - Libraries: 🔥 PyTorch, 🤓 Fastai, 📈 NumPy, 🐼 Pandas, 📊 Matplotlib
 
 ## More socials:
-- Website: https://galaxunix.github.io
+- Website: https://galaxuniv.github.io
 - Twitter: [@afterhoursbilly](https://twitter.com/afterhoursbilly)
 - Kaggle: [duckqq](https://www.kaggle.com/galaxqq)
 - Email: 📧 afterhoursbilly@gmail.com
@@ -22,7 +22,7 @@ I mainly used Python, but I'm also exploring other technologies and tools
 - Libraries: PyTorch, Fastai, NumPy, Pandas, Matplotlib
 
 #### More socials:
-- Website: https://galaxunix.github.io
+- Website: https://galaxuniv.github.io
 - Twitter: [@afterhoursbilly](https://twitter.com/afterhoursbilly)
 - Kaggle: [qq](https://www.kaggle.com/galaxqq)
 - Emial: afterhoursbilly@gmail.com
