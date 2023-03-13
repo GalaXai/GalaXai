@@ -1,8 +1,9 @@
 # 🌟 Hello there 👋
-<!--
+
 I am a 🧑 second year 🎓 computer science student with a focus on 🤖 ML, ⚙️ algorithms, and 🌀 deep learning.  
 I primarily use 🐍 Python, but I am also exploring other technologies and tools.
 
+<!--
 ## Programming Proficiency:
 - Languages: 🐍 Python
 - Libraries: 🔥 PyTorch, 🤓 Fastai, 📈 NumPy, 🐼 Pandas, 📊 Matplotlib
