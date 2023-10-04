@@ -1,30 +1,29 @@
 # 🌟 Hello there 👋
 
-I am a 🧑 second year 🎓 computer science student with a focus on 🤖 ML, ⚙️ algorithms, and 🌀 deep learning.  
-I primarily use 🐍 Python, but I am also exploring other technologies and tools.
+## About Me:
+I'm a third-year computer science student, focusing on Machine and Deep Learning. \
+Primarily working in Python, while also exploring other technologies and tools.
 
+## Tools Proficiency:
+- Libraries: PyTorch, Fastai, NumPy, Pandas, Matplotlib, Flask, SQL
+- Tools: Git, Docker, Linux, Jupyter, PyCharm, CLI
+
+## Currently Learning:
+- 🔥 Mojo programming language
+- 🌱 Reinforcement Learning
+- 🎨 Diffusion Models
+## Socials:
+- Website: You can visit my page [galax.dev](https://galax.dev) for blogs and demos.
+- Twitter: Feel free to connect with me on Twitter(X): [@afterhoursbilly](https://twitter.com/afterhoursbilly)
+- Email: You can reach me at [contact@galax.dev](mailto:contact@galax.dev)
+- Discord: Find me on Discord with the username: **`afterhoursbilly`**
+
+
+Contact on discord or mail for any queries or collaborations.
 <!--
-## Programming Proficiency:
-- Languages: 🐍 Python
-- Libraries: 🔥 PyTorch, 🤓 Fastai, 📈 NumPy, 🐼 Pandas, 📊 Matplotlib
+### Suport me:
+- [Create paperspace account](https://console.paperspace.com/signup?R=XFZIENS) 
+- Hire me :)
 
-## More socials:
-- Website: https://galaxuniv.github.io
-- Twitter: [@afterhoursbilly](https://twitter.com/afterhoursbilly)
-- Kaggle: [duckqq](https://www.kaggle.com/galaxqq)
-- Email: 📧 afterhoursbilly@gmail.com
--->
-<!--
-**GalaxUniv/GalaxUniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
