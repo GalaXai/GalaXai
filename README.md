@@ -9,7 +9,9 @@ Primarily working in Python, while also exploring other technologies and tools.
 - Tools: Git, Docker, Linux, Jupyter, PyCharm, CLI
 
 ## Currently Learning:
+<!--
 - 🔥 Mojo programming language
+-->
 - 🌱 Reinforcement Learning
 - 🎨 Diffusion Models
 ## Socials:
