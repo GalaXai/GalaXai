@@ -8,12 +8,11 @@ Primarily working in Python, while also exploring other technologies and tools.
 - Libraries: PyTorch, Fastai, NumPy, Pandas, Matplotlib, Flask, SQL
 - Tools: Git, Docker, Linux, Jupyter, PyCharm, CLI
 
-## Currently Learning:
+## Currently Working On:
 <!--
 - 🔥 Mojo programming language
 -->
-- 🌱 Reinforcement Learning
-- 🎨 Diffusion Models
+- 🌱 tinyai
 ## Socials:
 - Website: You can visit my page [galax.dev](https://galax.dev) for blogs and demos.
 - Twitter: Feel free to connect with me on Twitter(X): [@afterhoursbilly](https://twitter.com/afterhoursbilly)
@@ -21,11 +20,9 @@ Primarily working in Python, while also exploring other technologies and tools.
 - Discord: Find me on Discord with the username: **`afterhoursbilly`**
 
 
-Contact on discord or mail for any queries or collaborations.
+Contact on discord or mail for any questions or collaborations.
 <!--
 ### Suport me:
-- [Create paperspace account](https://console.paperspace.com/signup?R=XFZIENS) 
-- Hire me :)
-
+- Hire me .
 
 -->
