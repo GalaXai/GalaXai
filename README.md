@@ -6,6 +6,6 @@ Programming in Python with a focus on ML/AI
 - [afterhours-Papers](https://github.com/GalaxAI/afterhourspapers) - ML paper and Architecture implementation
 
 ## Contact:
-dm on Twitter(X) [`@afterhoursbilly`](https://twitter.com/afterhoursbilly)\
-email  `contact@galax.dev`\
+dm [`@afterhoursbilly`](https://x.com/afterhoursbilly)\
+email  `contact@galax.dev`
 
